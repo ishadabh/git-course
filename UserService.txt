@@ -6,3 +6,5 @@ create an avatar for user
 
 login and logout
 change1
+
+change2
