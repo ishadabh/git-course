@@ -3,3 +3,5 @@ Upload on the server
 Process the data
 
 create an avatar for user
+
+login and logout
